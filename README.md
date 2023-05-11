@@ -3,9 +3,13 @@
 https://api.theblockbeats.news/v1/open-api/home-xml
 
 Making it more convenient for you to access Web3 information through RSS subscriptions . 
+
 # RSS document
+
 ## BlockBeats RSS introduction
-BlockBeats RSS is an XML-based file format that includes in-depth articles and real-time news updates. BlockBeats RSS can help you stay up-to-date with the latest information from theblockbeats.info website.
+
+BlockBeats RSS is an XML-based file format that includes in-depth articles and real-time news updates. BlockBeats RSS can help you stay up-to-date with the latest information from [theblockbeats.info](https://theblockbeats.info) website.
+
 Once you subscribe using a feed reader, whenever new content is published, the RSS reader will automatically fetch the article's title, summary, link, and other information, displaying it in your reader for quick browsing and reading.
 
 ## Response format
