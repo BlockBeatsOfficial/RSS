@@ -12,7 +12,7 @@ BlockBeats RSS is an XML-based file format that includes in-depth articles and r
 
 Once you subscribe using a feed reader, whenever new content is published, the RSS reader will automatically fetch the article's title, summary, link, and other information, displaying it in your reader for quick browsing and reading.
 
-#### 1.4.2 Header
+#### Header
 
 ```
 "language":cn //language cn,en,cht
