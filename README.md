@@ -2,7 +2,7 @@
 
 https://api.theblockbeats.news/v1/open-api/home-xml
 
-Makes it easier for you to access Web3 information via BlockBeats RSS subscriptions . （Legacy version, please refer to the RSS-v2 repository.）
+Makes it easier for you to access Web3 information via BlockBeats RSS subscriptions . （This is an older version. Please refer to the RSS-v2 repository.）
 
 # RSS document
 
